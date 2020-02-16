@@ -42,10 +42,10 @@ const postData = JSON.stringify(data);
 
 
 const options = {
-	url: 'https://us5.api.mailchimp.com/3.0/lists/2acfa195b9',
+	url: 'Your Url',
 	method: 'POST',
 	headers: {
-		Authorization: 'auth 91c3659da502b6d687cd291ec4def5bf-us5'
+		Authorization: 'Your Authorization'
 	},
 	body: postData
 };
